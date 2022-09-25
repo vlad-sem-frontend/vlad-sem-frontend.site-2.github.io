@@ -1,0 +1,5 @@
+@mixin font700($w,$s,$h) {
+   font-weight:$w;
+   font-size:$s;
+   line-height: $h;
+}

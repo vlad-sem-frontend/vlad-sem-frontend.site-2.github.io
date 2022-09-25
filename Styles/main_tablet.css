@@ -1,0 +1,68 @@
+@media(max-width: 768px){
+   .ideas__content .ideas__contforimg{
+      height: 200px;
+   }
+   .ideas__content .ideas__contforimg2 {
+      height: 200px;
+   }
+   .ideas__content .ideas__contforimg3 {
+      height: 200px;
+   }.ideas__content .ideas__contforimg4 {
+      height: 200px;
+   }.ideas__content .ideas__contforimg5 {
+      height: 200px;
+   }.ideas__content .ideas__contforimg6 {
+      height: 200px;
+   }.ideas__content .ideas__contforimg7 {
+      height: 200px;
+   }
+   .badge-pad{
+      padding: 0 ;
+   }
+   .step__p{
+      padding: 10px 0 0 0;
+   }
+h2{
+   font-size: 22px;
+line-height: 27px;
+}
+.h2margin, .dreamshare__content .stepimg3 .cards__cont .h2margin {
+line-height: 14px;
+}
+.dreamshare__content .stepimg .cards__cont .h2margin, .dreamshare__content .stepimg2 .cards__cont .h2margin, .dreamshare__content .stepimg3 .cards__cont .h2margin{
+   line-height: 14px;
+   padding-left: 0;
+   padding-right: 0;
+}
+.dreamshare__content .stepimg .cards__cont, .dreamshare__content .stepimg2 .cards__cont, .dreamshare__content .stepimg3 .cards__cont {
+   max-width: 196px;
+}
+.container, .container-md, .container-sm {
+   max-width: 748px;
+}
+.dreamshare {
+  padding: 0 10px;
+}
+.inside__footer--padding {
+   padding: 0 0;
+}
+.between--pad{
+   padding: 0;
+}
+
+.container, .container-md, .container-sm {
+    max-width: 720px;
+}
+.between--pad {
+   padding: 0 5px;
+}
+.container, .container-md, .container-sm {
+   max-width: 748px;
+}
+
+
+
+
+
+
+}
